@@ -1,4 +1,4 @@
-Palstore my personal project use laravel11 and tailwind, 
+Palstore is my personal project use laravel11 and tailwind, 
 here there are 2 applications at once, namely Admin and Customer.
 with each feature as follows:
 
